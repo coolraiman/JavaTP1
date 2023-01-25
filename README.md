@@ -2,7 +2,7 @@
 This is a javaFX project using MySQL database
 
 ## Login screen
-![Upload page](/main/GitIMG/login.png)
+![Upload page](main/gitIMG/login.pngg)
 
 ## Main screen
-![Upload page](/main/GitIMG/main.png)
+![Upload page](main/gitIMG/main.png)
